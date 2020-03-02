@@ -1,3 +1,6 @@
 [submodule "utilities"]
 	path = utilities
 	url = https://github.com/FongAnthonyM/python-utility.git
+[submodule "processingcore"]
+	path = processingcore
+	url = https://github.com/FongAnthonyM/ProcessingCore.git
