@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-""" processingcoretest.py
+""" __init__.py
 Description:
 """
 __author__ = "Anthony Fong"
@@ -19,7 +19,7 @@ __status__ = "Prototype"
 
 
 # Local Libraries #
-from utilities.loggers.eventlogger import SubjectEventLogger
+
 
 # Definitions #
 # Classes #
